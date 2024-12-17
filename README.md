@@ -38,7 +38,7 @@ Windows Terminal
 (Neo)vim
 Tmux
 
-##other software / tools
+## general purpose software / computer tools
 f.lux
 OBS
 Opera GX
@@ -48,6 +48,19 @@ StreamDeck
 HWINFO64
 Finalcut Pro
 Dyvinci Resolve
+WSL2
+Arch Linux (btw)
+Ubuntu
+LibreOffice
+Gimp
+sadly - Adobe Photoshop / lightroom
+Google Drive
+Dropbox
+Mega
+FreeFileSync - Must Have
+the Unarchiver - 
+
+
 
 
 
