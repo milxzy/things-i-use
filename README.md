@@ -1,71 +1,62 @@
-# things-i-use
+# things i use
 
-fonts:
-https://fonts.google.com/specimen/IBM+Plex+Mono
-https://www.jetbrains.com/lp/mono/#how-to-install
-https://berkeleygraphics.com/typefaces/berkeley-mono/
-when im comfy: https://madmalik.github.io/mononoki/
-https://monaspace.githubnext.com/
+## fonts
+- [ibm plex mono](https://fonts.google.com/specimen/IBM+Plex+Mono)  
+- [jetbrains mono](https://www.jetbrains.com/lp/mono/#how-to-install)  
+- [berkeley mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)  
+- [mononoki (when i'm comfy)](https://madmalik.github.io/mononoki/)  
+- [monaspace](https://monaspace.githubnext.com/)  
 
 ## productivity
-https://github.com/bashbunni/pomotui (only avialble on mac / linux, maybe i'll write a windows port)
-https://www.flow.app/
-and a crippling caffeine addiction
+- [pomotui](https://github.com/bashbunni/pomotui) (only available on mac/linux, maybe i'll write a windows port)  
+- [flow](https://www.flow.app/)  
+- and a crippling caffeine addiction  
 
-##perriphreals
-Keyboard: Custom built Razer huntsman w/ mods
-Mouse: Logitchech GProX Wireless Superlight
-Mousepad: They don't make it anymore, but the closest thing would be themousepadcompany Strata Liquid
-Speakers: x2 Yamaha HS5
-Audio Interface: Scarlet 2i2 ?Gen
-Mic: Shure SM58
-Audio Cables: Mogami Gold
-Chair: To be updated
+## peripherals
+- **keyboard:** custom-built razer huntsman w/ mods  
+- **mouse:** logitech g pro x wireless superlight  
+- **mousepad:** they don't make it anymore, but the closest thing would be the mousepad company strata liquid  
+- **speakers:** x2 yamaha hs5  
+- **audio interface:** scarlett 2i2 (gen ?)  
+- **mic:** shure sm58  
+- **audio cables:** mogami gold  
+- **chair:** to be updated  
 
-##music prod
-ableton live 12 full suite
-fl studio
-logic pro x
-Akai MPC
-also random plugins that i can link to a different repo
-headphones: beyerdynamic DT 990 PRO Over-Ear Studio Monitor Headphones - Open-Back Stereo Construction, Wired (80 Ohm, Grey)
+## music production
+- **daws:**  
+  - ableton live 12 full suite  
+  - fl studio  
+  - logic pro x  
+  - akai mpc  
+- **plugins:** random plugins (link in a different repo)  
+- **headphones:** beyerdynamic dt 990 pro (open-back, wired, 80 ohm, gray)  
 
-##coding software / tools
-Visual Studio Code
-Visual Studio
-iterm2
-Windows Terminal
-(Neo)vim
-Tmux
+## coding software / tools
+- visual studio code  
+- visual studio  
+- iterm2  
+- windows terminal  
+- (neo)vim  
+- tmux  
 
 ## general purpose software / computer tools
-f.lux
-OBS
-Opera GX
-Arc
-Wallpaper Engine
-StreamDeck
-HWINFO64
-Finalcut Pro
-Dyvinci Resolve
-WSL2
-Arch Linux (btw)
-Ubuntu
-LibreOffice
-Gimp
-sadly - Adobe Photoshop / lightroom
-Google Drive
-Dropbox
-Mega
-FreeFileSync - Must Have
-the Unarchiver - 
-
-
-
-
-
-
-
-
-
-
+- f.lux  
+- obs  
+- opera gx  
+- arc  
+- wallpaper engine  
+- streamdeck  
+- hwinfo64  
+- final cut pro  
+- davinci resolve  
+- wsl2  
+- arch linux (btw)  
+- ubuntu  
+- libreoffice  
+- gimp  
+- sadly, adobe photoshop / lightroom  
+- google drive  
+- dropbox  
+- mega  
+- freefilesync (must-have)  
+- the unarchiver (must-have)  
